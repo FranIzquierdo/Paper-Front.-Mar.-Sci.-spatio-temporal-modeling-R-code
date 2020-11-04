@@ -15,7 +15,7 @@ It is worth to mention that prediction step with INLA can be done through differ
 
 References:
 
-Paradinas, I., Conesa, D., López-Quílez, A., and Bellido, J. M. (2017). Spatio-temporal model structures with shared components for semi-continuous species distribution modelling. Spatial Statistics 22, 434–450
-
 Advanced Spatial Modeling with Stochastic Partial Differential Equations Using R and INLA. Elias T. Krainski, Virgilio Gómez-Rubio, Haakon Bakka, Amanda Lenzi, Daniela Castro-Camilo, Daniel Simpson, Finn Lindgren and Håvard Rue. CRC Press/Taylor and Francis Group, 2019. (https://becarioprecario.bitbucket.io/spde-gitbook/ch-stapp.html#sec:hgst)
+
+Paradinas, I., Conesa, D., López-Quílez, A., and Bellido, J. M. (2017). Spatio-temporal model structures with shared components for semi-continuous species distribution modelling. Spatial Statistics 22, 434–450.
 
