@@ -1,6 +1,6 @@
 # R-INLA-Code-Hake-HBSTM
 
-*"Spatio-temporal assessment of the European hake (Merluccius merluccius) recruits in the northern Iberian Peninsula"*
+Spatio-temporal assessment of the European hake (Merluccius merluccius) recruits in the northern Iberian Peninsula
 
 In this repository we present the R code from the model in our manuscript at Frontiers in Marine Science. It is a Bayesian spatio-temporal hurdle model via INLA for European hake recruits, where the response variables are probability of occurrence (Binomial) and conditional to presence abundance (Gamma). No exploratory analysis neither figures R code are included.
 
